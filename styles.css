@@ -1,0 +1,59 @@
+.ingredients{
+    font-size: 20px;
+    color: rgb(95, 187, 102);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p {
+    font-size: 23px;
+    color: rgb(95, 187, 102);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+a {
+    
+    color: darkblue;
+    }
+    
+a:visited {
+    
+    color: rgb(129, 226, 255);
+}
+    
+h1 { 
+
+   font-family: 'Times New Roman', Times, serif;
+   color: rgb(129, 226, 255); 
+   background-color: rgb(28, 95, 95);
+   padding: 20px 30px;
+}
+
+h2 {
+
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(129, 226, 255); 
+    background-color: rgb(28, 95, 95);
+    padding: 20px 30px;    
+}
+
+.links{
+
+    font-size: 20px;
+    color: rgb(28, 95, 95);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+.steps{
+   
+
+    font-size: 20px;
+    color: rgb(95, 187, 102);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+
+}
