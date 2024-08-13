@@ -1,3 +1,13 @@
+*,*::before,*::after{
+
+    box-sizing: border-box;
+}
+
+*{
+    margin:0;
+    padding: 0;
+}
+
 .ingredients{
     font-size: 20px;
     color: rgb(95, 187, 102);
@@ -22,14 +32,42 @@ a:visited {
     
     color: rgb(129, 226, 255);
 }
-    
+
+.first_div{
+    padding: 20px;
+    background-color: rgb(25, 88, 143);
+    margin: 20px;
+}
+
 h1 { 
 
    font-family: 'Times New Roman', Times, serif;
    color: rgb(129, 226, 255); 
+   border: 10px;
+   border-style: ridge;
    background-color: rgb(28, 95, 95);
-   padding: 20px 30px;
+   padding: 20px 20px;
+   margin: 20px 40px;
+   text-align: center;
 }
+
+img{
+
+    display: block;
+    margin :auto;
+    border: 10px;
+    border-style: ridge;
+    
+}
+
+.img_div{
+    padding: 20px;
+    background-color: rgb(25, 88, 143);
+    margin: 20px ;
+}
+
+
+
 
 h2 {
 
@@ -40,10 +78,18 @@ h2 {
     padding: 20px 30px;    
 }
 
+.link_div{
+    padding: 20px;
+    background-color: rgb(25, 88, 143);
+    margin: 20px ;
+    text-align: center;
+}
 .links{
 
-    font-size: 20px;
-    color: rgb(28, 95, 95);
+    display: inline-block;
+    text-align: left;
+    color: azure;
+    font-size: 20px; 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 
 }
